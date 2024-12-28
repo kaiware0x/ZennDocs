@@ -16,7 +16,7 @@ npx zenn preview
 ローカル画像ファイルを表示
 https://zenn.dev/zenn/articles/deploy-github-images
 
-拡張機能 Paste Image 
+拡張機能 Paste Image
 https://zenn.dev/simiraaaa/articles/zenn-vscode-paste-image
 https://zenn.dev/longbridge/articles/1eaf8ee07329f0
 
