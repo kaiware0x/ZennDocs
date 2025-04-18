@@ -80,7 +80,7 @@ std::visit(Print{}, var);
 
 リポジトリはこちら。
 
-https://github.com/kaiware0x/CppSoftwareDesign/tree/main/04_Visitor_Classical
+https://github.com/kaiware0x/CppSoftwareDesign/tree/main/04-1_Visitor_Classical
 
 デザインパターンの一つであり、**オブジェクトの構造**とその上で行う**操作**を分離する目的で使用される。
 オブジェクトの構造が頻繁に変更されないが、新しい操作を追加する必要がある場合に有用。
@@ -90,7 +90,7 @@ https://github.com/kaiware0x/CppSoftwareDesign/tree/main/04_Visitor_Classical
 
 リポジトリはこちら。
 
-https://github.com/kaiware0x/CppSoftwareDesign/tree/main/04_Visitor_stdvariant
+https://github.com/kaiware0x/CppSoftwareDesign/tree/main/04-2_Visitor_stdvariant
 
 ### Pros
 
