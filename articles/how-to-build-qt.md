@@ -3,7 +3,7 @@ title: "Qtをソースからビルドする"
 emoji: "🐥"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["cpp", "qt"]
-published: false
+published: true
 ---
 
 主に以下のサイトを参考にする。
