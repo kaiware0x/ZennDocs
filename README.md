@@ -35,5 +35,3 @@ https://zenn.dev/longbridge/articles/1eaf8ee07329f0
 ## 参考文献
 
 ```
-
-npx zenn new:article --slug how-to-build-qt
