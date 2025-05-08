@@ -109,3 +109,7 @@ qemu-system-x86_64 \
 ![alt text](/images/mikan-osbook-day1/image.png)
 
 ひとまず起動ができたので、続きは後日別記事へ。
+
+**追記：続き書きました**
+
+https://zenn.dev/kaiware0x/articles/mikan-osbook-day1-2

@@ -108,7 +108,7 @@ OVMFは以下の2つのファイルで構成される：
 
 📎 [Tianocore GitHub](https://github.com/tianocore/tianocore.github.io)
 
-📦 Linuxディストリビューション（Ubuntu, Fedoraなど）では、パッケージとして以下のような名前で提供されます：
+📦 Linuxディストリビューション（Ubuntu, Fedoraなど）では、パッケージとして以下のような名前で提供される：
 
 * Debian / Ubuntu: `ovmf`
 * Fedora / RHEL: `edk2-ovmf`
