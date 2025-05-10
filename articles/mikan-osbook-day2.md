@@ -3,7 +3,7 @@ title: "ゼロからのOS自作入門 メモ (Day2)"
 emoji: "🍊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["os", "linux", "windows", "wsl"]
-published: false
+published: true
 ---
 
 こんにちは、**kaiware**です。
