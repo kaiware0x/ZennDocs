@@ -6,6 +6,8 @@ topics: ["os", "linux", "windows", "wsl"]
 published: true
 ---
 
+こんにちは、**kaiware**です。
+
 みかん本Day1その2。
 
 [前回の記事](https://zenn.dev/kaiware0x/articles/mikan-osbook-day1)が長くなってしまったので続きを書いていく。
@@ -199,3 +201,8 @@ sequenceDiagram
     - 実行可能かつリンク可能フォーマット
 - Linuxでの実行可能ファイルの標準形式
 - ELFファイルはオブジェクトファイルの形式としても使える
+
+
+## 次回
+
+https://zenn.dev/kaiware0x/articles/mikan-osbook-day2
