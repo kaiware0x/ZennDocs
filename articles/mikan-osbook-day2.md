@@ -48,9 +48,19 @@ https://zenn.dev/kaiware0x/articles/mikan-osbook-day1-2
 - UEFIでPrintするときはワイド文字を使う必要がある
     - `Print(L"Hello, Mikan World!\n");`
 
+## ブートローダーのビルド
+
+```sh
+cd $HOME/edk2
+ln -s $HOME/workspace/mikanos/MikanLoaderPkg ./ # シンボリックリンクを張る
+source edksetup.sh # ターミナル起動時のみ。環境変数がセットされる
+build
+# Output: $HOME/edk2/Build/MikanLoaderX64/DEBUG_CLANG38/X64/Loader.efi
+```
+
 ## buildコマンドでのエラー
 
-EDK2をリンクしてビルド実行したら以下のエラーが出た。
+以下のエラーが出た。
 
 ```log
 kaiware@tslap:~/edk2$ build
@@ -481,4 +491,4 @@ Ansibleは：
 
 # 次回
 
-備えよう
+https://zenn.dev/kaiware0x/articles/mikan-osbook-day3
