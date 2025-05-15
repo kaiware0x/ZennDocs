@@ -88,7 +88,7 @@ x /[N][F][B] ADDRESS
 | `ADDRESS`  | アドレス（例：`0x7fffd000`, `$rsp`, `0x1000 + 8` など）          |
 
 
-パラメータに`/2i`を指定すると、バイナリ命令を逆アセンブルしてアセンプリコードを表示できる。
+パラメータに`/2i`を指定すると、バイナリ命令を逆アセンブルしてアセンブリコードを表示できる。
 
 ```bash
 (qemu) x /2i 0x3e67c411
@@ -329,4 +329,4 @@ ld.lld $LDFLAGS --entry KernelMain -z norelro --image-base 0x100000 --static -o 
 
 # 次回
 
-備えよう
+https://zenn.dev/kaiware0x/articles/mikan-osbook-day3
