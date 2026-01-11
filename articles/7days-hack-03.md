@@ -8,7 +8,8 @@ published: true
 
 こちらの本を勉強中に気になった用語や作業をまとめていきます。
 
-[![](/images/7days-hack-03/2026-01-11-12-02-12.png)](https://amzn.to/4aP6SeL)
+[![](/images/7days-hack-03/2026-01-11-12-02-12.png =250x)](https://amzn.to/4aP6SeL)
+*7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性*
 
 ## 取り組んでいる課題
 
