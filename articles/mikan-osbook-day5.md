@@ -133,4 +133,4 @@ build
 
 # 次回
 
-備えよう
+https://zenn.dev/kaiware0x/articles/mikan-osbook-day6
