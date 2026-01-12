@@ -76,4 +76,4 @@ https://zenn.dev/kaiware0x/articles/7days-hack-03
 
 次回：
 
-備えよう
+https://zenn.dev/kaiware0x/articles/7days-hack-04

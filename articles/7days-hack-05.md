@@ -83,3 +83,14 @@ find / -perm -u=s -type f 2>/dev/null
 https://gtfobins.github.io
 
 特定のコマンドの仕様を利用し、特権昇格のために利用できるテクニックが検索できる。
+
+
+## リンク
+
+前回：
+
+https://zenn.dev/kaiware0x/articles/7days-hack-04
+
+次回：
+
+https://zenn.dev/kaiware0x/articles/7days-hack-05
