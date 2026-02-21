@@ -8,6 +8,7 @@
 ```shell
 # 新しい記事の生成
 npx zenn new:article --slug 記事ファイル名(小文字英数字、ハイフン、アンダースコアのみ)
+npx zenn new:article --slug to-be-or-not-to-be
 
 # ローカルホストが立ち上がりブラウザでPreviewできる。
 npx zenn preview
